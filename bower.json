@@ -7,6 +7,7 @@
   "description": "echar3.2.2 for arcgis-js-api layer on the map.",
   "main": "echarts.js",
   "license": "MIT",
+  "version": "v1.0.0",
   "private": true,
   "ignore": [
     "**/.*",
