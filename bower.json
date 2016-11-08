@@ -1,0 +1,18 @@
+{
+  "name": "echarts3Layer",
+  "homepage": "https://github.com/PolanZ/echarts3Layer",
+  "authors": [
+    "PolanZ <523608375@qq.com>"
+  ],
+  "description": "echar3.2.2 for arcgis-js-api layer on the map.",
+  "main": "echarts.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
