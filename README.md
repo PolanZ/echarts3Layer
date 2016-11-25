@@ -5,6 +5,7 @@ echars3.2.3
   个人修改，个人利用，若是用到有问题请联系。
   
   安装
+  
     bower install echarts3Layer
   
 修改于https://github.com/wandergis/arcgis-echarts3
